@@ -3,7 +3,7 @@ import java.util.*;
 class Matrxsort
 {
 	int a,b,c,d,e;
-	int arr[][] = new int[7][7];
+	int arr[][] = new int[6][6];
 	void get()
 	{
 		Scanner sc = new Scanner(System.in);
